@@ -2,8 +2,7 @@ package ru.netology.stats;
 
 public class StatsService {
 
-    long[] sales = new long[0];
-
+  
     // Метод для подсчета суммы всех продаж
 
     public int totalAllSales(long[] sales) {
